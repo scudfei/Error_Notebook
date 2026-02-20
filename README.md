@@ -1,28 +1,28 @@
-# 📚 错题本 (Error Notebook)
+# 📚 Error Notebook
 
-这个仓库用于收集和分析我的学习错题，目标是将错误转化为长期的智慧。
+This repository collects and analyzes my learning errors, aiming to transform mistakes into long-term wisdom.
 
-## 📂 目录结构 (Directory Structure)
+## 📂 Directory Structure
 
 ### 🇬🇧 English
-*   **Reading Comprehension**: 阅读理解
-*   **Grammar**: 语法
-*   **Vocabulary**: 词汇
-*   **Writing**: 写作
+*   **Reading_Comprehension**: Analysis of reading passages and questions.
+*   **Grammar**: Grammar rules and corrections.
+*   **Vocabulary**: Vocabulary building and misuse corrections.
+*   **Writing**: Writing samples and improvements.
 
 ### 🔢 Mathematics (Planned)
-*   **Algebra**: 代数
-*   **Geometry**: 几何
-*   **Calculus**: 微积分
+*   **Algebra**
+*   **Geometry**
+*   **Calculus**
 
 ### 🔬 Science (Planned)
-*   **Physics**: 物理
-*   **Chemistry**: 化学
-*   **Biology**: 生物
+*   **Physics**
+*   **Chemistry**
+*   **Biology**
 
 ---
 
-## 📝 最近更新 (Recent Updates)
+## 📝 Recent Updates
 *   [2026-02-20] **English / Reading Comprehension**: Anita's Dance (Symbolism & Themes)
 
 ---
