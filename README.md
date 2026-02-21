@@ -24,6 +24,7 @@ This repository collects and analyzes my learning errors, aiming to transform mi
 
 ## 📝 Recent Updates
 *   [2026-02-20] **English / Reading Comprehension**: Anita's Dance (Symbolism & Themes)
+*   [2026-02-21] **English / Reading Comprehension**: LotR Farmer Maggot (Psychological Realism & Atmosphere)
 
 ---
 
