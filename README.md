@@ -27,6 +27,8 @@ This repository collects and analyzes my learning errors, aiming to transform mi
 *   [2026-02-21] **English / Reading Comprehension**: LotR Farmer Maggot (Psychological Realism & Atmosphere)
 *   [2026-03-09] **English / Reading Comprehension**: Solaro Reading Problems Evaluation (Critical Reading & Tone)
 *   [2026-04-02] **English / Reading Comprehension**: LotR Strider (Metaphor & Inference)
+*   [2026-04-02] **English / Reading Comprehension**: LotR Additional Questions (Inference & Distractors)
+*   [2026-04-02] **Mathematics / Probability**: Expected Value - Palindrome and Fixed Points
 
 ---
 
