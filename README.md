@@ -29,6 +29,7 @@ This repository collects and analyzes my learning errors, aiming to transform mi
 *   [2026-04-02] **English / Reading Comprehension**: LotR Strider (Metaphor & Inference)
 *   [2026-04-02] **English / Reading Comprehension**: LotR Additional Questions (Inference & Distractors)
 *   [2026-04-02] **Mathematics / Probability**: Expected Value - Palindrome and Fixed Points
+*   [2026-04-07] **English / Reading Comprehension**: Comprehensive Reading and Poetry Error Patterns (Best-Answer Precision, Tone, Abstraction)
 
 ---
 
